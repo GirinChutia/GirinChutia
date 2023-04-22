@@ -20,7 +20,7 @@ Some practical use cases of the model are :
 ![](https://i.imgur.com/r2Zi02f.gif)
 
 
-## Research 
+## Publications
 
 ### [LW-μDCNN: A Lightweight CNN Model for Human Activity Classification using Radar micro-Doppler Signatures](https://ieeexplore.ieee.org/document/10027123)
 
