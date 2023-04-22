@@ -31,4 +31,8 @@ Out of a pool of over 2100 data scientists competing for over four months in the
  
 Recognition of human activities plays a pivotal role in recent times for surveillance and security. The convolution neural network (CNN) based models are growing to classify human activities using micro- Doppler (μD) signatures. However, a larger number of parameters of the CNN models increases the computation cost and increases the size. The present work introduces a novel lightweight model, “LW −μ DCNN,” to classify human activities. The architecture of LW −μ DCNN has 438998 parameters with 7 layers. A total of six human activities are recorded in the FM CWR dataset, which is in the form of μD signatures. These μD signatures are converted into spectrogram images and are considered as input for the experiments. The size of the LW −μ DCNN model is only 5.2 MB, which is further optimized by considering quantization aware training, “QAT-LW- μ DCNN,” has size of 0.43 MB with minimal loss of accuracy. The extensive analysis shows that the LW −μ DCNN model achieves 97% of classification accuracy with a higher F1-score for every class than the other state-of-the-art models. The present paper also proposed two transfer learning approaches, i.e., InceptionV3 and MobileNetV1, for the experimental studies to classify human activities.
 
+---
+
+![](https://komarev.com/ghpvc/?username=GirinChutia&label=PROFILE+VIEWS)
+
 
