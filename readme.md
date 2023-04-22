@@ -8,11 +8,10 @@
 ## Computer Vision Projects
 ### [Indian Currency Recognition using AI](https://github.com/GirinChutia/IndCurr) 💫 
 
-This is an project where I use an CNN that can recognise incurrecy of different demominations. I also implemented an streamlit app for easy inference of the trained model. 
+This is a project where I use a CNN that can recognize the currency of different denominations. I have also implemented a Streamlit app for easy inference of the trained model. Some practical use cases of the model include:
 
-Some practical use cases of the model are : 
-1. Currency recognition system from visually impaired/blind peoples.
-2. Scope for development of a currency verification systems.
+1. Currency recognition system for visually impaired/blind people
+2. The project has the potential to develop a currency verification system.
 
 
 ![](https://i.imgur.com/Ea1LtVz.gif)
