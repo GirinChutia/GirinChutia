@@ -21,8 +21,7 @@ This is a project where I use a CNN that can recognize the currency of different
 ## Achievement & Recognitions 
 ### [BMW SORDI.ai Hackathon 2022 - 6'th Position](https://sordi.ai/hackathon)
 
-Out of a pool of over 2100 data scientists competing for over four months in the largest industrial AI data science competition in the world, I achieved an impressive Global Rank 6 in the BMW SORDI.ai Hackathon 2022. This intense and prestigious competition was organized by some of the biggest names in tech, including Microsoft, NVIDIA, BMW Group + QUT Design Academy, idealworks, and the BMW Group. It was an incredible experience to showcase my skills and compete at such a high level.
-
+Out of a pool of over 2100 data scientists competing for over four months in the largest industrial AI data science competition in the world, I achieved an **Global Rank 6** in the BMW SORDI.ai Hackathon 2022. This intense and prestigious competition was organized by some of the biggest names in tech, including Microsoft, NVIDIA, BMW Group + QUT Design Academy, idealworks, and the BMW Group. It was an incredible experience to showcase my skills and compete at such a high level.
 
 ## Publications
 
