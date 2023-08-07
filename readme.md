@@ -14,8 +14,6 @@ Out of a pool of over 2100 data scientists competing for over four months in the
 The Writer Verification task began as a way to detect potential fraud in the banking sector by verifying signatures. This task is difficult because people's handwriting can vary significantly, making it necessary for the model to learn these variations. The task becomes even more complex in offline settings, where dynamic information about the writing process is not available, such as when writing on electronic equipment. 
 The task of the challenge was to given a pair of handwritten text images, automatically determine whether they are written by the same writer or different writers.
 
-![Alt text](docs/SV_NCVPRIPG.png)
-
 [Solution Codebase](https://github.com/GirinChutia/NCVPRIPG2023_SummerChallengeOnWriterVerification_TeamInkSq)
 
 ## Computer Vision Projects / Leisure time projects
