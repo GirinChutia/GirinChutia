@@ -4,8 +4,21 @@
 - 🔭 I’m currently working on Computer Vision models from Automatic Defect Recognitions (ADR).
 - 📫 How to reach me: girin.iitm@gmail.com
 
+## Achievement & Recognitions 
+### [BMW SORDI.ai Hackathon 2022 - 6'th Position](https://sordi.ai/hackathon)
 
-## Computer Vision Projects
+Out of a pool of over 2100 data scientists competing for over four months in the largest industrial AI data science competition in the world, I achieved an **Global Rank 6** in the BMW SORDI.ai Hackathon 2022. This intense and prestigious competition was organized by some of the biggest names in tech, including Microsoft, NVIDIA, BMW Group + QUT Design Academy, idealworks, and the BMW Group. It was an incredible experience to showcase my skills and compete at such a high level.
+
+### [Summer Challenge on Writer Verification, National Conference on Computer Vision, Pattern Recognition, Image Processing and Graphics 2023 (NCVPRIPG'23) - 2nd Position](https://vl2g.github.io/challenges/wv2023/)
+
+The Writer Verification task began as a way to detect potential fraud in the banking sector by verifying signatures. This task is difficult because people's handwriting can vary significantly, making it necessary for the model to learn these variations. The task becomes even more complex in offline settings, where dynamic information about the writing process is not available, such as when writing on electronic equipment. 
+The task of the challenge was to given a pair of handwritten text images, automatically determine whether they are written by the same writer or different writers.
+
+![Alt text](docs/SV_NCVPRIPG.png)
+
+[Solution Codebase](https://github.com/GirinChutia/NCVPRIPG2023_SummerChallengeOnWriterVerification_TeamInkSq)
+
+## Computer Vision Projects / Leisure time projects
 ### [Indian Currency Recognition using AI](https://github.com/GirinChutia/IndCurr) 💫 
 
 This is a project where I use a CNN that can recognize the currency of different denominations. I have also implemented a Streamlit app for easy inference of the trained model. Some practical use cases of the model include:
@@ -18,10 +31,9 @@ This is a project where I use a CNN that can recognize the currency of different
 ![](https://i.imgur.com/TIODbHY.gif)
 ![](https://i.imgur.com/r2Zi02f.gif)
 
-## Achievement & Recognitions 
-### [BMW SORDI.ai Hackathon 2022 - 6'th Position](https://sordi.ai/hackathon)
+### [Faster RCNN Model training for a custom COCO dataset ⚡](https://github.com/GirinChutia/FasterRCNN-Torchvision-FineTuning) 
 
-Out of a pool of over 2100 data scientists competing for over four months in the largest industrial AI data science competition in the world, I achieved an **Global Rank 6** in the BMW SORDI.ai Hackathon 2022. This intense and prestigious competition was organized by some of the biggest names in tech, including Microsoft, NVIDIA, BMW Group + QUT Design Academy, idealworks, and the BMW Group. It was an incredible experience to showcase my skills and compete at such a high level.
+This repository provides a user-friendly solution for training a Faster R-CNN model utilizing any custom COCO dataset. The Faster R-CNN algorithm is a widely used object detection framework known for its efficiency and accuracy in localizing and classifying objects within images. With this repository, one can seamlessly tailor the model to your specific needs. The primary focus of this repository is to streamline the process of training the Faster R-CNN model with any custom COCO dataset. 
 
 ## Publications
 
