@@ -16,11 +16,11 @@ The task of the challenge was to given a pair of handwritten text images, automa
 
 [Solution Codebase](https://github.com/GirinChutia/NCVPRIPG2023_SummerChallengeOnWriterVerification_TeamInkSq)
 
-## Computer Vision Projects / Leisure time projects
+## Computer Vision Projects 
 
 ### [SAM-ONNX](https://github.com/GirinChutia/SAM_ONNX/) 🥭
 
-A pip package designed to seamlessly integrate and leverage the potent capabilities of the SAM (Segment-Anything) Model, requiring only the most minimal dependencies.
+A pip package designed to seamlessly integrate and leverage the potent capabilities of the SAM (Segment Anything Model), requiring only the most minimal dependencies.
 
 ### [Indian Currency Recognition using AI](https://github.com/GirinChutia/IndCurr) 💫 
 
