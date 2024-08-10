@@ -17,6 +17,11 @@ The task of the challenge was to given a pair of handwritten text images, automa
 [Solution Codebase](https://github.com/GirinChutia/NCVPRIPG2023_SummerChallengeOnWriterVerification_TeamInkSq)
 
 ## Computer Vision Projects 
+### [Object Detection Inference Interface (ODII)](https://github.com/GirinChutia/Object-Detection-Inference-Interface) 🧿
+ODII is a simple Python package designed to provide a unified and streamlined interface for running inference on multiple object detection models under one hood. ODII facilitates seamless interaction with a range of popular models, including YOLOX, YOLOv3, YOLOv4, YOLOv6, and YOLOv7, without the need to manage multiple codebases or installation processes.
+
+### [Faster RCNN Model training for a custom COCO dataset ⚡](https://github.com/GirinChutia/FasterRCNN-Torchvision-FineTuning) 
+This repository provides a user-friendly solution for training a Faster R-CNN model utilizing any custom COCO dataset. The Faster R-CNN algorithm is a widely used object detection framework known for its efficiency and accuracy in localizing and classifying objects within images. With this repository, one can seamlessly tailor the model to your specific needs. The primary focus of this repository is to streamline the process of training the Faster R-CNN model with any custom COCO dataset. 
 
 ### [SAM-ONNX](https://github.com/GirinChutia/SAM_ONNX/) 🥭
 
@@ -34,9 +39,7 @@ This is a project where I use a CNN that can recognize the currency of different
 ![](https://i.imgur.com/TIODbHY.gif)
 ![](https://i.imgur.com/r2Zi02f.gif)
 
-### [Faster RCNN Model training for a custom COCO dataset ⚡](https://github.com/GirinChutia/FasterRCNN-Torchvision-FineTuning) 
 
-This repository provides a user-friendly solution for training a Faster R-CNN model utilizing any custom COCO dataset. The Faster R-CNN algorithm is a widely used object detection framework known for its efficiency and accuracy in localizing and classifying objects within images. With this repository, one can seamlessly tailor the model to your specific needs. The primary focus of this repository is to streamline the process of training the Faster R-CNN model with any custom COCO dataset. 
 
 ## Publications
 
