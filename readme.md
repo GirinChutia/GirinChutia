@@ -16,7 +16,7 @@ The task of the challenge was to given a pair of handwritten text images, automa
 
 [Solution Codebase](https://github.com/GirinChutia/NCVPRIPG2023_SummerChallengeOnWriterVerification_TeamInkSq)
 
-## My Computer Vision Sandbox
+## Computer Vision Sandbox
 ### [Object Detection Inference Interface (ODII)](https://github.com/GirinChutia/Object-Detection-Inference-Interface) 🧿
 ODII is a simple Python package designed to provide a unified and streamlined interface for running inference on multiple object detection models under one hood. ODII facilitates seamless interaction with a range of popular models, including YOLOX, YOLOv3, YOLOv4, YOLOv6, and YOLOv7, without the need to manage multiple codebases or installation processes.
 
