@@ -9,7 +9,7 @@
 
 Out of a pool of over 2100 data scientists competing for over four months in the largest industrial AI data science competition in the world, I achieved an **Global Rank 6** in the BMW SORDI.ai Hackathon 2022. This intense and prestigious competition was organized by some of the biggest names in tech, including Microsoft, NVIDIA, BMW Group + QUT Design Academy, idealworks, and the BMW Group. It was an incredible experience to showcase my skills and compete at such a high level.
 
-### [Multi-Class Abnormality Classification for Video Capsule Endoscopy. - Capsule Vision Challenge 2024]([https://sordi.ai/hackathon](https://github.com/GirinChutia/Misahub-Capsule-Vision-2024-Solution-eAI?tab=readme-ov-file))
+### [Multi-Class Abnormality Classification for Video Capsule Endoscopy - Capsule Vision Challenge 2024](https://github.com/GirinChutia/Misahub-Capsule-Vision-2024-Solution-eAI?tab=readme-ov-file)
 
 In this project, a deep learning-based multiclass abnormality classification model was developed for Video Capsule Endoscopy (VCE) data. Trained on 37,607 VCE frames and validated on 16,132 frames, the model achieved a mean AUC of 0.98 and balanced accuracy of 0.83. Through hyperparameter tuning, data augmentation, and sampling techniques, the solution secured 8th place in the Capsule Vision Challenge 2024
 
