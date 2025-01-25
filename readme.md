@@ -28,7 +28,7 @@ ODII is a simple Python package designed to provide a unified and streamlined in
 ### [Faster RCNN Model training for a custom COCO dataset ⚡](https://github.com/GirinChutia/FasterRCNN-Torchvision-FineTuning) 
 This repository provides a user-friendly solution for training a Faster R-CNN model utilizing any custom COCO dataset. The Faster R-CNN algorithm is a widely used object detection framework known for its efficiency and accuracy in localizing and classifying objects within images. With this repository, one can seamlessly tailor the model to your specific needs. The primary focus of this repository is to streamline the process of training the Faster R-CNN model with any custom COCO dataset. 
 
-### [Sementic-Segmentation on LIVECell Dataset 🧫](https://github.com/GirinChutia/LiveCell-Segmentation)
+### [Sementic Segmentation on LIVECell Dataset 🧫](https://github.com/GirinChutia/LiveCell-Segmentation)
 Implemented CANet (Chained Context Aggregation Network) for semantic segmentation of cells in microscopy imagery captured using light microscopy techniques. The model was trained on the LIVECell dataset to achieve accurate and robust segmentation results.
 
 ### [SAM-ONNX](https://github.com/GirinChutia/SAM_ONNX/) 🥭
