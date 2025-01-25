@@ -5,7 +5,7 @@
 - 📫 How to reach me: girin.iitm@gmail.com
 
 ## Achievement & Recognitions 
-### [BMW SORDI.ai Hackathon 2022 - 6'th Position](https://sordi.ai/hackathon)
+### [BMW SORDI.ai Industrial AI Hackathon 2022 - 6'th Position](https://sordi.ai/hackathon)
 
 Ranked 6th globally in the BMW SORDI.ai Hackathon 2022, one of the largest industrial AI competitions, with over 2,100 participants competing for four months. Organized by leading tech names including Microsoft, NVIDIA, BMW Group, and QUT Design Academy, this prestigious competition provided a platform to showcase advanced data science skills in a highly competitive environment.
 
