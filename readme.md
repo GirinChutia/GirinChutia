@@ -9,6 +9,11 @@
 
 Out of a pool of over 2100 data scientists competing for over four months in the largest industrial AI data science competition in the world, I achieved an **Global Rank 6** in the BMW SORDI.ai Hackathon 2022. This intense and prestigious competition was organized by some of the biggest names in tech, including Microsoft, NVIDIA, BMW Group + QUT Design Academy, idealworks, and the BMW Group. It was an incredible experience to showcase my skills and compete at such a high level.
 
+### [Multi-Class Abnormality Classification for Video Capsule Endoscopy. - Capsule Vision Challenge 2024]([https://sordi.ai/hackathon](https://github.com/GirinChutia/Misahub-Capsule-Vision-2024-Solution-eAI?tab=readme-ov-file))
+
+In this project, a deep learning-based multiclass abnormality classification model was developed for Video Capsule Endoscopy (VCE) data. Trained on 37,607 VCE frames and validated on 16,132 frames, the model achieved a mean AUC of 0.98 and balanced accuracy of 0.83. Through hyperparameter tuning, data augmentation, and sampling techniques, the solution secured 8th place in the Capsule Vision Challenge 2024
+
+
 ### [Summer Challenge on Writer Verification, National Conference on Computer Vision, Pattern Recognition, Image Processing and Graphics 2023 (NCVPRIPG'23) - 2nd Position](https://vl2g.github.io/challenges/wv2023/)
 
 The Writer Verification task began as a way to detect potential fraud in the banking sector by verifying signatures. This task is difficult because people's handwriting can vary significantly, making it necessary for the model to learn these variations. The task becomes even more complex in offline settings, where dynamic information about the writing process is not available, such as when writing on electronic equipment. 
