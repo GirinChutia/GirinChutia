@@ -7,7 +7,7 @@
 ## Achievement & Recognitions 
 ### [BMW SORDI.ai Hackathon 2022 - 6'th Position](https://sordi.ai/hackathon)
 
-Out of a pool of over 2100 data scientists competing for over four months in the largest industrial AI data science competition in the world, I achieved an **Global Rank 6** in the BMW SORDI.ai Hackathon 2022. This intense and prestigious competition was organized by some of the biggest names in tech, including Microsoft, NVIDIA, BMW Group + QUT Design Academy, idealworks, and the BMW Group. It was an incredible experience to showcase my skills and compete at such a high level.
+Ranked 6th globally in the BMW SORDI.ai Hackathon 2022, one of the largest industrial AI competitions, with over 2,100 participants competing for four months. Organized by leading tech names including Microsoft, NVIDIA, BMW Group, and QUT Design Academy, this prestigious competition provided a platform to showcase advanced data science skills in a highly competitive environment.
 
 ### [Multi-Class Abnormality Classification for Video Capsule Endoscopy - Capsule Vision Challenge 2024](https://github.com/GirinChutia/Misahub-Capsule-Vision-2024-Solution-eAI?tab=readme-ov-file)
 
@@ -16,8 +16,7 @@ In this project, a deep learning-based multiclass abnormality classification mod
 
 ### [Summer Challenge on Writer Verification, National Conference on Computer Vision, Pattern Recognition, Image Processing and Graphics 2023 (NCVPRIPG'23) - 2nd Position](https://vl2g.github.io/challenges/wv2023/)
 
-The Writer Verification task began as a way to detect potential fraud in the banking sector by verifying signatures. This task is difficult because people's handwriting can vary significantly, making it necessary for the model to learn these variations. The task becomes even more complex in offline settings, where dynamic information about the writing process is not available, such as when writing on electronic equipment. 
-The task of the challenge was to given a pair of handwritten text images, automatically determine whether they are written by the same writer or different writers.
+The Writer Verification task originated as a method to detect potential fraud in the banking sector by verifying signatures. This is a challenging problem due to the natural variation in handwriting styles. The complexity increases in offline settings, where dynamic writing process data is unavailable. The challenge involved determining, from a pair of handwritten text images, whether they were written by the same person or by different writers.
 
 [Solution Codebase](https://github.com/GirinChutia/NCVPRIPG2023_SummerChallengeOnWriterVerification_TeamInkSq)
 
