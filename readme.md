@@ -9,16 +9,27 @@
 
 Ranked 6th globally in the BMW SORDI.ai Hackathon 2022, one of the largest industrial AI competitions, with over 2,100 participants competing for four months. Organized by leading tech names including Microsoft, NVIDIA, BMW Group, and QUT Design Academy, this prestigious competition provided a platform to showcase advanced data science skills in a highly competitive environment.
 
-### [Multi-Class Abnormality Classification for Video Capsule Endoscopy - Capsule Vision Challenge 2024](https://github.com/GirinChutia/Misahub-Capsule-Vision-2024-Solution-eAI?tab=readme-ov-file)
-
-In this project, a deep learning-based multiclass abnormality classification model was developed for Video Capsule Endoscopy (VCE) data. Trained on 37,607 VCE frames and validated on 16,132 frames, the model achieved a mean AUC of 0.98 and balanced accuracy of 0.83. Through hyperparameter tuning, data augmentation, and sampling techniques, the solution secured 8th place in the Capsule Vision Challenge 2024
-
+<!-- Image Section -->
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/d7d56073-b3d5-4fec-99df-988857e008df" width="40%">
+  <img src="https://github.com/user-attachments/assets/cd198e7f-d959-44f6-8598-d1053b4aad7c" width="40%">
+</p>
 
 ### [Summer Challenge on Writer Verification, National Conference on Computer Vision, Pattern Recognition, Image Processing and Graphics 2023 (NCVPRIPG'23) - 2nd Position](https://vl2g.github.io/challenges/wv2023/)
 
 The Writer Verification task originated as a method to detect potential fraud in the banking sector by verifying signatures. This is a challenging problem due to the natural variation in handwriting styles. The complexity increases in offline settings, where dynamic writing process data is unavailable. The challenge involved determining, from a pair of handwritten text images, whether they were written by the same person or by different writers.
 
 [Solution Codebase](https://github.com/GirinChutia/NCVPRIPG2023_SummerChallengeOnWriterVerification_TeamInkSq)
+
+<!-- Image Section -->
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/2d714302-2fc7-49bb-8ca3-52baf66fe202" width="40%">
+</p>
+
+### [Multi-Class Abnormality Classification for Video Capsule Endoscopy - Capsule Vision Challenge 2024](https://github.com/GirinChutia/Misahub-Capsule-Vision-2024-Solution-eAI?tab=readme-ov-file)
+
+In this project, a deep learning-based multiclass abnormality classification model was developed for Video Capsule Endoscopy (VCE) data. Trained on 37,607 VCE frames and validated on 16,132 frames, the model achieved a mean AUC of 0.98 and balanced accuracy of 0.83. Through hyperparameter tuning, data augmentation, and sampling techniques, the solution secured 8th place in the Capsule Vision Challenge 2024
+
 
 ## Computer Vision Sandbox
 ### [Object Detection Inference Interface (ODII)](https://github.com/GirinChutia/Object-Detection-Inference-Interface) 🧿
