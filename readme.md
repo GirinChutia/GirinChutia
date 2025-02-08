@@ -11,8 +11,8 @@ Ranked 6th globally in the BMW SORDI.ai Hackathon 2022, one of the largest indus
 
 <!-- Image Section -->
 <p align="left">
-  <img src="https://github.com/user-attachments/assets/d7d56073-b3d5-4fec-99df-988857e008df" width="40%">
-  <img src="https://github.com/user-attachments/assets/cd198e7f-d959-44f6-8598-d1053b4aad7c" width="40%">
+  <img src="https://github.com/user-attachments/assets/d7d56073-b3d5-4fec-99df-988857e008df" width="50%">
+  <img src="https://github.com/user-attachments/assets/cd198e7f-d959-44f6-8598-d1053b4aad7c" width="50%">
 </p>
 
 ### [Summer Challenge on Writer Verification, National Conference on Computer Vision, Pattern Recognition, Image Processing and Graphics 2023 (NCVPRIPG'23) - 2nd Position](https://vl2g.github.io/challenges/wv2023/)
@@ -23,7 +23,7 @@ The Writer Verification task originated as a method to detect potential fraud in
 
 <!-- Image Section -->
 <p align="left">
-  <img src="https://github.com/user-attachments/assets/2d714302-2fc7-49bb-8ca3-52baf66fe202" width="40%">
+  <img src="https://github.com/user-attachments/assets/2d714302-2fc7-49bb-8ca3-52baf66fe202" width="50%">
 </p>
 
 ### [Multi-Class Abnormality Classification for Video Capsule Endoscopy - Capsule Vision Challenge 2024](https://github.com/GirinChutia/Misahub-Capsule-Vision-2024-Solution-eAI?tab=readme-ov-file)
