@@ -1,6 +1,6 @@
 # Hi, I'm Girin 👋
 
-Welcome to my GitHub portfolio! I’m a Computer Vision enthusiast currently working on Automatic Defect Recognition (ADR) models. Feel free to explore my work and reach out at [girin.iitm@gmail.com](mailto:girin.iitm@gmail.com).
+Welcome to my GitHub portfolio! I’m a AI enthusiast currently working on Automatic Defect Recognition (ADR) models. Feel free to explore my work and reach out at [girin.iitm@gmail.com](mailto:girin.iitm@gmail.com).
 
 ---
 
