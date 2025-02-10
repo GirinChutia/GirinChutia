@@ -12,8 +12,8 @@ Welcome to my GitHub portfolio! I’m a Computer Vision enthusiast currently wor
 - **Hosted by:** Microsoft, NVIDIA, BMW Group, & QUT Design Academy  
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d7d56073-b3d5-4fec-99df-988857e008df" width="45%">
-  <img src="https://github.com/user-attachments/assets/cd198e7f-d959-44f6-8598-d1053b4aad7c" width="45%">
+  <img src="https://github.com/user-attachments/assets/d7d56073-b3d5-4fec-99df-988857e008df" width="47%">
+  <img src="https://github.com/user-attachments/assets/cd198e7f-d959-44f6-8598-d1053b4aad7c" width="47%">
 </p>
 
 ---
@@ -25,8 +25,8 @@ Welcome to my GitHub portfolio! I’m a Computer Vision enthusiast currently wor
 
 🔗 **[Solution Codebase](https://github.com/GirinChutia/NCVPRIPG2023_SummerChallengeOnWriterVerification_TeamInkSq)**
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/2d714302-2fc7-49bb-8ca3-52baf66fe202" width="60%">
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/2d714302-2fc7-49bb-8ca3-52baf66fe202" width="45%">
 </p>
 
 ---
@@ -40,6 +40,19 @@ Welcome to my GitHub portfolio! I’m a Computer Vision enthusiast currently wor
 ---
 
 ## 🧪 Computer Vision Sandbox
+
+### ✨ [StableDiffusion FineTuning using Dreambooth and LoRA](https://github.com/GirinChutia/StableDiffusion-FineTune-Dreambooth)
+Leverage Dreambooth & LORA to fine-tune the Stable Diffusion model for personalized text-to-image generation.  
+- **Technique:** Custom fine-tuning using a limited set of images to capture unique subject details,
+- **Pipeline:** End-to-end process covering data preparation, fine-tuning, and inference.
+- **Applications:** Ideal for creative projects, personalized image generation & marketing content generation.
+
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/d8cb198e-f7ab-47e7-84c9-ef4773856512" width="45%">
+  <figcaption>Example: Images generated from SDXL v1.0 and Fine-Tuned SDXL v1.0 for Ford Maverick Pickup Truck</figcaption>
+</p>
+
+---
 
 ### 🧿 [Object Detection Inference Interface (ODII)](https://github.com/GirinChutia/Object-Detection-Inference-Interface)
 A unified Python package for running inference on multiple object detection models (YOLOX, YOLOv3, YOLOv4, YOLOv6, YOLOv7) without the hassle of managing different codebases.
@@ -67,7 +80,7 @@ A CNN-based solution paired with a Streamlit app to recognize Indian currency de
 1. Assistive tool for visually impaired individuals  
 2. Currency verification system  
 
-<p align="center">
+<p align="left">
   <img src="https://i.imgur.com/Ea1LtVz.gif" width="30%">
   <img src="https://i.imgur.com/TIODbHY.gif" width="30%">
   <img src="https://i.imgur.com/r2Zi02f.gif" width="30%">
@@ -81,7 +94,8 @@ A CNN-based solution paired with a Streamlit app to recognize Indian currency de
 **Abstract:**  
 Developed a novel lightweight CNN model named **LW-μDCNN** with 438,998 parameters across 7 layers to classify human activities from radar micro-Doppler signatures.  
 - **Model Size:** 5.2 MB (reduced to 0.43 MB using quantization-aware training)  
-- **Performance:** Achieved 97% accuracy and superior F1-scores compared to state-of-the-art models.
+- **Performance:** Achieved 97% accuracy and superior F1-scores compared to state-of-the-art models  
+- **Additional Studies:** Employed transfer learning with InceptionV3 and MobileNetV1
 
 ---
 
