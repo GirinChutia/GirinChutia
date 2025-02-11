@@ -1,12 +1,12 @@
 # Hi, I'm Girin 👋
 
-Welcome to my GitHub portfolio! I’m a AI enthusiast currently working on Automatic Defect Recognition (ADR) models. Feel free to explore my work and reach out at [girin.iitm@gmail.com](mailto:girin.iitm@gmail.com).
+Welcome to my GitHub portfolio! I’m an AI Engineer currently working on Computer Vision & Deep Learning. Feel free to explore my work and reach out at [girin.iitm@gmail.com](mailto:girin.iitm@gmail.com).
 
 ---
 
 ## 🚀 Achievements & Recognitions
 
-### 🏆 [BMW SORDI.ai Industrial AI Hackathon 2022 - 6th Position](https://sordi.ai/hackathon)
+### 🏆 [BMW SORDI.ai Industrial AI Hackathon - 6th Position](https://sordi.ai/hackathon)
 - **Global Rank:** 6th out of 2,100+ participants  
 - **Duration:** 4 months  
 - **Hosted by:** Microsoft, NVIDIA, BMW Group, & QUT Design Academy  
@@ -18,7 +18,7 @@ Welcome to my GitHub portfolio! I’m a AI enthusiast currently working on Autom
 
 ---
 
-### ✍️ [Summer Challenge on Writer Verification, NCVPRIPG'23 - 2nd Position](https://vl2g.github.io/challenges/wv2023/)
+### ✍️ [Summer Challenge on Writer Verification - National Conference on Computer Vision, Pattern Recognition, Image Processing and Graphics - 2nd Position](https://vl2g.github.io/challenges/wv2023/)
 - **Challenge:** Verify handwritten signatures to detect potential fraud  
 - **Problem:** Tackling the natural variability in offline handwriting  
 - **Achievement:** Secured 2nd position in a competitive environment  
@@ -31,7 +31,7 @@ Welcome to my GitHub portfolio! I’m a AI enthusiast currently working on Autom
 
 ---
 
-### 🎥 [Multi-Class Abnormality Classification for Video Capsule Endoscopy - Capsule Vision Challenge 2024](https://github.com/GirinChutia/Misahub-Capsule-Vision-2024-Solution-eAI?tab=readme-ov-file)
+### 🎥 [Multi-Class Abnormality Classification for Video Capsule Endoscopy - International Conference on Computer Vision & Image Processing - Capsule Vision Challenge 2024](https://github.com/GirinChutia/Misahub-Capsule-Vision-2024-Solution-eAI?tab=readme-ov-file)
 - **Approach:** Deep learning-based multiclass abnormality classification  
 - **Data:** Trained on 37,607 VCE frames and validated on 16,132 frames  
 - **Performance:** Mean AUC of 0.98 & Balanced Accuracy of 0.83  
